@@ -1,0 +1,36 @@
+.input-search{
+  width: 60%;
+  border-radius: 10px;
+  border: 2px solid lightgray;
+  height: 44px;
+  padding-left: 14px;
+  font-size: 20px;
+}
+.login-card{
+ border: 2px solid lightgray !important;
+}
+.input-box{
+  width: 50%;
+    height: 40px;
+    border-radius: 9px;
+    border: 2px solid lightgray;
+    padding-left: 10px;
+}
+.input-button{
+  border-radius: 10px;
+  height: 42px;
+  font-size: 19px;
+  background: white;
+  color: red;
+  border: 1px solid red;
+}
+.input-button:hover{
+  color:white;
+  background-color: green;
+  border:1px solid green
+}
+
+#page-numbers {
+  list-style: none;
+  display: flex;
+}
